@@ -10,12 +10,12 @@ pre: " <b> 3.2 </b> "
 
 1. Trong **giao diện S3 bucket**
    - Chọn **Permissions** và sau đó chọn **Edit**
-![per-bucket-1](/images/per-bucket-1.png)
+![per-bucket-1](/images/per-bucket-1.jpg)
 2. Trong giao diện **Block public access**
    - Bỏ chọn **Block all public access**
    - Chọn **Save changes**
-![per-bucket-2](/images/per-bucket-2.png)
+![per-bucket-2](/images/per-bucket-2.jpg)
 3. Nhập **confirm** và chọn **Confirm**
 ![per-bucket-3](/images/per-bucket-3.png)
 4. Hoàn tất cấu hình **Block public access**
-![per-bucket-4](/images/per-bucket-4.png)
+![per-bucket-4](/images/per-bucket-4.jpg)

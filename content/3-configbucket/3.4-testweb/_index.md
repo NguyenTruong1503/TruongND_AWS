@@ -10,10 +10,10 @@ pre : " <b> 3.4 </b> "
 1. Access the created **S3 bucket**
    - Select **Object**
    - Select **S3-Website-main uploaded folder.**
-![test-1](/images/test-1.png)
+![test-1](/images/test-1.jpg)
 2. Select **index.html**
-![test-2](/images/test-2.png)
+![test-2](/images/test-2.jpg)
 3. In the **index.html** details, choose **Object URL** to open another tab
-![test-3](/images/test-3.png)
+![test-3](/images/test-3.jpg)
 4. You see the website interface.
-![test-4](/images/test-4.png)
+![test-4](/images/test-4.jpg)

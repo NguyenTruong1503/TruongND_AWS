@@ -11,10 +11,10 @@ pre: " <b> 3.4 </b> "
 1. Truy cập vào **S3 bucket** đã tạo
    - Chọn **Object**
    - Chọn thư mục **S3-Website-main đã tải lên**
-![test-1](/images/test-1.png)
+![test-1](/images/test-1.jpg)
 2. Chọn **index.html**
-![test-2](/images/test-2.png)
+![test-2](/images/test-2.jpg)
 3. Trong chi tiết của **index.html**, chọn **Object URL** để mở trong tab khác
-![test-3](/images/test-3.png)
+![test-3](/images/test-3.jpg)
 4. Bạn sẽ thấy giao diện của website.
-![test-4](/images/test-4.png)
+![test-4](/images/test-4.jpg)
