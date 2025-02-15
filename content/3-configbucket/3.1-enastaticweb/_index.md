@@ -9,13 +9,13 @@ pre : " <b> 3.1 </b> "
 ### Enable static website
 1. In S3 bucket interface, select **Properties**
    - Scroll down and select **Edit** Static website hosting.
-![upload-but-3](/images/upload-but-3.png) ![upload-but-4](/images/upload-but-4.png)
+![upload-but-3](/images/upload-but-3.jpg) ![upload-but-4](/images/upload-but-4.jpg)
 2. In the **Static website hosting interface**
    - **Static website hosting**: Enable
    - **Hosting type**: Host a static website
    - **Index document**: `index.html`
-![index-1](/images/index-1.png)
+![index-1](/images/index-1.jpg)
 3. Check again, select **Save changes**
-![index-2](/images/index-2.png)
+![index-2](/images/index-2.jpg)
 4. Enable **Static website hosting** successfully
-![index-3](/images/index-3.png)
+![index-3](/images/index-3.jpg)

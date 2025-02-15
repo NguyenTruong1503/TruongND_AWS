@@ -12,14 +12,14 @@ Bạn thực hiện tải [mã nguồn](https://github.com/AWS-First-Cloud-Journ
 
 1. Truy cập vào S3 bucket mà bạn đã tạo.
    - Chọn **Upload** tệp đã giải nén.
-![upload-file](/images/upload-file.png)
+![upload-file](/images/upload-file.jpg)
 2. Trong giao diện **Upload**
    - Chọn **Add folder**.
    - Chọn thư mục đã giải nén đã tải xuống.
-![upload-file2](/images/upload-file-2.png)
+![upload-file2](/images/upload-file-2.jpg)
 3. Chọn **Upload**.
-![upload-but-1](/images/upload-but-1.png)
+![upload-but-1](/images/upload-but-1.jpg)
 4. Đợi 5 phút để tải lên thành công.
-![upload-but-2](/images/upload-but-2.png)
+![upload-but-2](/images/upload-but-2.jpg)
 
 Tiếp theo, chúng ta sẽ bật **tính năng website tĩnh**

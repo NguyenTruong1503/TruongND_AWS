@@ -11,14 +11,14 @@ pre : " <b> 2.2 </b> "
 You perform download [source code](https://github.com/AWS-First-Cloud-Journey/S3-Website/archive/refs/heads/main.zip) to the device and then upload to **S3 bucket**.
 1. Go to S3 bucket which you created.
    - Select **Upload** the file unzipped.
-![upload-file](/images/upload-file.png)
+![upload-file](/images/upload-file.jpg)
 2. In **upload** interface
    - Select **Add folder**.
    - Choose the unzipped folder downloaded
-![upload-file2](/images/upload-file-2.png)
+![upload-file2](/images/upload-file-2.jpg)
 3.Select **Upload**.
-![upload-but-1](/images/upload-but-1.png)
+![upload-but-1](/images/upload-but-1.jpg)
 4. Wait for 5 minutes to successfull upload.
-![upload-but-2](/images/upload-but-2.png)
+![upload-but-2](/images/upload-but-2.jpg)
 
 Next, we will enable **Static website future**
