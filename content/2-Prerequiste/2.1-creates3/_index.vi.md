@@ -10,7 +10,7 @@ pre : " <b> 2.1 </b> "
 1. Trước tiên, bạn cần vào **AWS Management Console** > Tìm **S3**
 
 
-![findS3](/images/findS3.png)
+![findS3](/images/findS3.jpg)
 2. Trong **giao diện S3**, chọn **Create bucket**
 
 ![create-S3-but](/images/create-S3-but.png)

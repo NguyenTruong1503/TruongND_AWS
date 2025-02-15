@@ -7,7 +7,7 @@ pre : " <b> 2.1 </b> "
 ---
 ### Create S3 bucket ###
 1. Firstly, you need go to **AWS Management Console** > Find **S3**
-![findS3](/images/findS3.png)
+![findS3](/images/findS3.jpg)
 2. In the **S3 interface**, select **Create bucket**
 ![create-S3-but](/images/create-S3-but.png)
 3. In the **S3 bucket interface**, enter the following fields:
